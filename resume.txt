@@ -1,0 +1,10 @@
+Full-Stack Web App • Next.js · React · Axios · Express.js · CORS · Git/GitHub
+Jun 2025
+
+Developed a Next.js frontend that fetches and renders JSON data (messages, user info, dynamic item lists) via Axios and React hooks (useEffect, useState).
+
+Built a CORS‑enabled Express.js backend on port 3001 to serve structured JSON endpoints (res.json()), including message, timestamp, user, and items.
+
+Applied semantic JSX for ordered list rendering (<ol> with <li>) and robust error handling in both frontend (.catch) and backend.
+
+Streamlined Git workflow by removing nested submodule, initializing a root main branch, configuring remote, and pushing to GitHub.
